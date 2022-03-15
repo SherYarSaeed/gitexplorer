@@ -1,3 +1,7 @@
 *{
-    margin: 0 auto;
+    margin: 1rem;
+}
+
+p{
+    padding: 2rem;
 }
